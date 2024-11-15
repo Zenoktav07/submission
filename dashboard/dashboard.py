@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 # Load data
-data = pd.read_csv('main_data.csv')
+data = pd.read_csv('dashboard/main_data.csv')
 
 st.title("Dashboard Bike Sharing Dataset")
 

@@ -1,0 +1,2 @@
+Link Akses via Streamlit Cloud:
+https://submission-novan.streamlit.app/
